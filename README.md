@@ -98,10 +98,13 @@ estudando_atualmente:
 
 <img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/CANVA-08080D?style=for-the-badge&logo=canva&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/LIGHTROOM-08080D?style=for-the-badge&logo=adobelightroom&logoColor=A855F7"/>
+<img height="48" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
+
+   
+
+<img height="48" src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Adobe Lightroom"/>
 
 </div>
 
@@ -111,7 +114,7 @@ estudando_atualmente:
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    KIT DE FERRAMENTAS                       │
+│                    KIT DE FERRAMENTAS                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  ◈ VISUAL STUDIO CODE    → Desenvolvimento                  │
@@ -120,9 +123,9 @@ estudando_atualmente:
 │  ◈ MYSQL                 → Banco de Dados                   │
 │  ◈ PHOTOSHOP             → Arte Digital                     │
 │  ◈ ILLUSTRATOR           → Design Vetorial                  │
-│  ◈ CANVA                 → Produção Visual                   │
-│  ◈ LIGHTROOM             → Edição de Fotografia             │
 │  ◈ FIGMA                 → UI / UX Design                   │
+│  ◈ CANVA                 → Produção Visual                  │
+│  ◈ LIGHTROOM             → Edição de Fotografia             │
 │  ◈ CAPCUT                → Vídeo / Animação                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -154,64 +157,12 @@ estudando_atualmente:
 
 ### `DESIGN`
 
-<img src="https://skillicons.dev/icons?i=ps,ai,figma,canva&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM-08080D?style=for-the-badge&logo=adobelightroom&logoColor=A855F7"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark"/>
 
 <br><br>
 
-### `FERRAMENTAS`
+<img height="52" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux&theme=dark"/>
+    
 
-</div>
-
----
-
-## `05 // MISSÃO.ATUAL`
-
-```bash
-$ ./mello --status
-
-[ SISTEMA ] ONLINE
-[ MODO    ] CRIATIVO
-[ NÚCLEO  ] DESIGN + CÓDIGO
-
-$ cat objetivos.log
-
-01. ████████████████████  Aprender JavaScript
-02. ███████████████░░░░░  Dominar Desenvolvimento Web
-03. ██████████████░░░░░░  Criar Projetos com Banco de Dados
-04. ████████████████░░░░  Melhorar Git & GitHub
-05. █████████████████░░░  Unir Design + Tecnologia
-06. ████████████░░░░░░░░  Criar produtos digitais autorais
-
-$ ./próximo_projeto
-
-> ANALISANDO IDEIAS...
-> CONSTRUINDO...
-> COMPILANDO...
-> PRONTO.
-```
-
----
-
-## `06 // PROJETOS.EM.DESTAQUE`
-
-<div align="center">
-
-<a href="https://github.com/truemelloo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=truemelloo&repo=truemelloo&theme=tokyonight&hide_border=true&bg_color=08080D&title_color=A855F7&icon_color=A855F7"/>
-</a>
-
-</div>
-
----
-
-## `07 // SISTEMA.GITHUB`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.a
+<img height="52" src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Adobe
