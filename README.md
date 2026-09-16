@@ -1,336 +1,333 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:5B21B6,100:A855F7&height=180&section=header&text=MELLO&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=DESENVOLVEDORA%20CRIATIVA%20%2F%2F%20ARTISTA%20DIGITAL&descSize=17&descAlignY=65&descColor=D8B4FE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:5B21B6,100:A855F7&height=180&section=header&text=MELLO&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=CREATIVE%20DEVELOPER%20%2F%2F%20DIGITAL%20ARTIST&descSize=17&descAlignY=65&descColor=D8B4FE" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+INICIANDO+MELLO.EXE...;%3E+SISTEMA+ONLINE;%3E+BEM-VINDO+AO+MEU+ESPA%C3%87O+DIGITAL;%3E+DESIGNER+%2B+DESENVOLVEDORA;%3E+C%C3%93DIGO+%2B+CRIATIVIDADE+%3D+IDENTIDADE" alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+MELLO.EXE...;%3E+SYSTEM+ONLINE;%3E+WELCOME+TO+MY+DIGITAL+SPACE;%3E+DESIGNER+%2B+DEVELOPER;%3E+CODE+%2B+CREATIVITY+%3D+IDENTITY" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/truemelloo">
 <img src="https://img.shields.io/badge/GITHUB-0D0D12?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
-<a href="https://www.linkedin.com/in/ana-clara-de-souza-mello-b1a362291">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D12?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
-</a>
-
 <a href="https://instagram.com/designmelloo">
 <img src="https://img.shields.io/badge/DESIGNMELLOO-0D0D12?style=for-the-badge&logo=instagram&logoColor=A855F7"/>
 </a>
-
 <a href="https://linkleo.com.br">
 <img src="https://img.shields.io/badge/LINKLEO-0D0D12?style=for-the-badge&logo=googlechrome&logoColor=A855F7"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=truemelloo&style=for-the-badge&color=7C3AED&label=VISITAS+NO+PERFIL"/>
+<img src="https://komarev.com/ghpvc/?username=truemelloo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01 // IDENTIDADE.DO.SISTEMA`
+## `01 // SYSTEM.IDENTITY`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   USUÁRIA    : ANA CLARA DE SOUZA MELLO                      ║
-║   APELIDO    : MELLO                                         ║
+║   USER       : ANA CLARA "MELLO"                            ║
+║   ALIAS      : MELLO                                         ║
 ║   STATUS     : ONLINE                                        ║
-║   BASE       : BRASIL                                        ║
-║   FUNÇÃO     : DESENVOLVEDORA CRIATIVA                       ║
+║   BASE       : BRAZIL                                       ║
+║   ROLE       : CREATIVE DEVELOPER                           ║
 ║                                                              ║
-║   DESIGN       ████████████████████░░  90%                   ║
-║   CÓDIGO       ███████████████░░░░░░  70%                    ║
-║   CRIATIVIDADE ██████████████████████ 100%                   ║
+║   DESIGN     ████████████████████░░  90%                    ║
+║   CODE       ███████████████░░░░░░  70%                    ║
+║   CREATIVITY ██████████████████████ 100%                    ║
 ║                                                              ║
-║   > Transformando ideias em experiências digitais.           ║
+║   > Turning ideas into digital experiences.                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> SOBRE.MIM`
+### `> ABOUT_ME`
 
 Sou **Mello**, uma pessoa criativa que transita entre **design, arte e tecnologia**.
 
 Atualmente estudo **Desenvolvimento de Sistemas** e **Artes Visuais**, explorando como código e criatividade podem trabalhar juntos para criar experiências digitais únicas.
 
 ```yaml
-nome: Ana Clara
-apelido: Mello
+name: Ana Clara
+alias: Mello
+focus:
+  - Web Development
+  - Graphic Design
+  - Creative Technology
+  - Visual Identity
+  - Digital Art
 
-áreas_de_interesse:
-  - Desenvolvimento Web
-  - Design Gráfico
-  - Tecnologia Criativa
-  - Identidade Visual
-  - Arte Digital
-
-estudando_atualmente:
+currently_learning:
   - JavaScript
-  - Banco de Dados
-  - Desenvolvimento Web
+  - Databases
+  - Web Development
   - Git & GitHub
 ```
 
 ---
 
-## `02 // ARSENAL.TECNOLÓGICO`
-
-### `LINGUAGENS`
+## `02 // TECH.ARSENAL`
 
 <div align="center">
+
+### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"/>
 
-</div>
+<br><br>
 
-### `DESENVOLVIMENTO`
-
-<div align="center">
+### `DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,mysql&theme=dark"/>
 
-</div>
+<br><br>
 
 ### `DESIGN`
 
-<div align="center">
-
-<img height="48" src="https://cdn.simpleicons.org/adobephotoshop/A855F7" alt="Photoshop"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/adobeillustrator/A855F7" alt="Illustrator"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/figma/A855F7" alt="Figma"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/canva/A855F7" alt="Canva"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/adobelightroom/A855F7" alt="Adobe Lightroom"/>
+<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark"/>
 
 </div>
 
 ---
 
-## `03 // FERRAMENTAS.EM.USO`
+## `03 // TOOLS.IN_USE`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    KIT DE FERRAMENTAS                        │
+│                    MELLO TOOLKIT                            │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ◈ VISUAL STUDIO CODE    → Desenvolvimento                  │
-│  ◈ GIT / GITHUB          → Controle de Versão               │
-│  ◈ GITLAB                → Colaboração                      │
-│  ◈ MYSQL                 → Banco de Dados                   │
-│  ◈ PHOTOSHOP             → Arte Digital                     │
-│  ◈ ILLUSTRATOR           → Design Vetorial                  │
-│  ◈ FIGMA                 → UI / UX Design                   │
-│  ◈ CANVA                 → Produção Visual                  │
-│  ◈ LIGHTROOM             → Edição Fotográfica               │
-│  ◈ CAPCUT                → Vídeo / Animação                 │
+│  ◈ VISUAL STUDIO CODE    → Development                      │
+│  ◈ GIT / GITHUB          → Version Control                  │
+│  ◈ GITLAB                → Collaboration                    │
+│  ◈ MYSQL                 → Database                         │
+│  ◈ PHOTOSHOP             → Digital Art                      │
+│  ◈ ILLUSTRATOR           → Vector Design                    │
+│  ◈ CANVA                 → Visual Production                │
+│  ◈ CAPCUT                → Motion / Video                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `04 // CONJUNTO.DE.TECNOLOGIAS`
+## `04 // CONJUNTO DE TECNOLOGIAS`
+
+<div align="center">
 
 ### `FRONT-END`
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,vite&theme=dark"/>
 
-</div>
+<br><br>
 
 ### `BACK-END`
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,java,python,express,spring&theme=dark"/>
 
-</div>
+<br><br>
 
-### `BANCO.DE.DADOS`
-
-<div align="center">
+### `BANCO DE DADOS`
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase&theme=dark"/>
 
-</div>
-
-### `DESIGN`
-
-<div align="center">
-
-<img height="48" src="https://cdn.simpleicons.org/adobephotoshop/A855F7" alt="Photoshop"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/adobeillustrator/A855F7" alt="Illustrator"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/figma/A855F7" alt="Figma"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/canva/A855F7" alt="Canva"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/adobelightroom/A855F7" alt="Adobe Lightroom"/>
-
-</div>
+<br><br>
 
 ### `FERRAMENTAS`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark"/>
 
 </div>
 
 ---
 
-## `05 // MISSÃO.ATUAL`
+## `05 // CURRENT.MISSION`
 
 ```bash
 $ ./mello --status
 
-[ SISTEMA ] ONLINE
-[ MODO    ] CRIATIVO
-[ NÚCLEO  ] DESIGN + CÓDIGO
+[ SYSTEM ] ONLINE
+[ MODE   ] CREATIVE
+[ CORE   ] DESIGN + CODE
 
-$ cat objetivos.log
+$ cat objectives.log
 
-01. ████████████████████  Aprender JavaScript
-02. ███████████████░░░░░  Dominar Desenvolvimento Web
-03. ██████████████░░░░░░  Criar Projetos com Banco de Dados
-04. ████████████████░░░░  Melhorar Git & GitHub
-05. █████████████████░░░  Unir Design + Tecnologia
-06. ████████████░░░░░░░░  Criar Produtos Digitais Autorais
+01. ████████████████████  Learn JavaScript
+02. ███████████████░░░░░  Master Web Development
+03. ██████████████░░░░░░  Build Database Projects
+04. ████████████████░░░░  Improve Git & GitHub
+05. █████████████████░░░  Combine Design + Technology
+06. ████████████░░░░░░░░  Create original digital products
 
-$ ./próximo_projeto
+$ ./next_project
 
-> ANALISANDO IDEIAS...
-> CONSTRUINDO...
-> COMPILANDO...
-> PRONTO.
+> SCANNING IDEAS...
+> BUILDING...
+> COMPILING...
+> READY.
 ```
 
 ---
 
-## `06 // PROJETOS.EM.DESTAQUE`
+## `06 // FEATURED.PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### `◈ LINKLEO`
 
-**Streetwear / Marca Criativa**
+**Streetwear / Creative Brand**
 
-Uma marca independente que mistura **moda, identidade visual e cultura urbana**.
+Uma marca independente que mistura moda, identidade visual e cultura urbana.
 
 ```text
 BRANDING
 DESIGN
 STREETWEAR
-DIREÇÃO CRIATIVA
+CREATIVE DIRECTION
 ```
 
-🌐 https://linkleo.com.br
+<a href="https://linkleo.com.br">
+<img src="https://img.shields.io/badge/ACCESS_PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-### `◈ LABORATÓRIO.CRIATIVO`
+</td>
 
-**Design + Tecnologia**
+<td width="50%" valign="top">
+
+### `◈ CREATIVE LAB`
+
+**Design + Technology**
 
 Um espaço para experimentar interfaces, identidades visuais, conceitos e projetos digitais.
 
 ```text
 UI / UX
-DESIGN GRÁFICO
-EXPERIMENTOS
-ARTE DIGITAL
+GRAPHIC DESIGN
+EXPERIMENTS
+DIGITAL ART
 ```
 
-### `◈ PROJETOS.ETEC`
+<a href="https://github.com/truemelloo?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Formação em Desenvolvimento de Sistemas**
+</td>
 
-Projetos acadêmicos desenvolvidos durante minha formação em **Desenvolvimento de Sistemas**.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `◈ ETEC PROJECTS`
+
+**Development Studies**
+
+Projetos acadêmicos desenvolvidos durante minha formação em Desenvolvimento de Sistemas.
 
 ```text
 HTML
 CSS
 JAVASCRIPT
-BANCO DE DADOS
+DATABASES
 ```
 
-### `◈ EXPERIMENTOS.DIGITAIS`
+<a href="https://github.com/truemelloo?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Código • Arte • Ideias**
+</td>
+
+<td width="50%" valign="top">
+
+### `◈ DIGITAL EXPERIMENTS`
+
+**Code • Art • Ideas**
 
 Projetos experimentais que conectam programação e expressão visual.
 
 ```text
-CÓDIGO
-ARTE
+CODE
+ART
 DESIGN
 EXPERIMENTAL
 ```
 
----
+<a href="https://github.com/truemelloo?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_ARCHIVE-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## `07 // SISTEMA.GITHUB`
+</td>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=truemelloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=08080D&title_color=A855F7&icon_color=A855F7"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truemelloo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=08080D&title_color=A855F7"/>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `08 // MONITORAMENTO.DE.ATIVIDADE`
+## `07 // GITHUB.SYSTEM`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=truemelloo&theme=tokyonight&hide_border=true&background=08080D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=truemelloo&show_icons=true&count_private=true&hide_border=true&bg_color=08080D&title_color=A855F7&icon_color=7C3AED&text_color=E9D5FF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truemelloo&layout=compact&hide_border=true&bg_color=08080D&title_color=A855F7&text_color=E9D5FF"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=truemelloo&bg_color=08080D&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=truemelloo&theme=dark&hide_border=true&background=08080D&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7"/>
 
 </div>
 
 ---
 
-## `09 // CONQUISTAS`
+## `08 // ACTIVITY.MONITOR`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=truemelloo&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=truemelloo&bg_color=08080D&color=C084FC&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## `10 // MATRIZ.DE.CONTRIBUIÇÕES`
+## `09 // ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da matriz de contribuições"/>
+<img src="https://github-profile-trophy.vercel.app/?username=truemelloo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
 
 </div>
 
 ---
 
-## `11 // REDES.SOCIAIS`
+## `10 // CONTRIBUTION.MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/truemelloo/truemelloo/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `11 // SOCIAL.NETWORK`
 
 <div align="center">
 
 <a href="https://github.com/truemelloo">
 <img src="https://img.shields.io/badge/GITHUB-08080D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ana-clara-de-souza-mello-b1a362291">
-<img src="https://img.shields.io/badge/LINKEDIN-08080D?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
 </a>
 
 <a href="https://instagram.com/designmelloo">
@@ -350,15 +347,19 @@ EXPERIMENTAL
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              CONEXÃO ESTABELECIDA                           ║
+║              CONNECTION ESTABLISHED                         ║
 ║                                                              ║
-║       DESIGN  ×  CÓDIGO  ×  ARTE  ×  TECNOLOGIA             ║
+║        DESIGN  ×  CODE  ×  ART  ×  TECHNOLOGY               ║
 ║                                                              ║
-║                  [ SISTEMA ONLINE ]                          ║
+║                 [ SYSTEM ONLINE ]                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**© 2026 Mello • Desenvolvido com código e criatividade.**
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:5B21B6,100:A855F7&height=120&section=footer&animation=twinkling"/>
+
+<sub>© 2026 Mello • Built with code & creativity.</sub>
 
 </div>
