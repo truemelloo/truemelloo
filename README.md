@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+INICIALIZANDO+MELLO.EXE...;%3E+SISTEMA+ONLINE;%3E+BEM-VINDO+AO+MEU+ESPAÇO+DIGITAL;%3E+DESIGNER+%2B+DESENVOLVEDORA;%3E+CÓDIGO+%2B+CRIATIVIDADE+%3D+IDENTIDADE" alt="Animação de texto"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+INICIALIZANDO+MELLO.EXE...;%3E+SISTEMA+ONLINE;%3E+BEM-VINDO+AO+MEU+ESPACO+DIGITAL;%3E+DESIGN+%2B+CODIGO;%3E+ARTE+%2B+TECNOLOGIA+%3D+IDENTIDADE" alt="Animação de texto"/>
 
 <br><br>
 
@@ -37,14 +37,14 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   USUÁRIA    : ANA CLARA DE SOUZA MELLO                      ║
-║   APELIDO    : MELLO                                         ║
-║   STATUS     : ONLINE                                        ║
-║   BASE       : BRASIL                                        ║
-║   FUNÇÃO     : DESENVOLVEDORA CRIATIVA                       ║
+║   USUÁRIA      : ANA CLARA DE SOUZA MELLO                    ║
+║   APELIDO      : MELLO                                       ║
+║   STATUS       : ONLINE                                      ║
+║   BASE         : BRASIL                                      ║
+║   FUNÇÃO       : DESENVOLVEDORA CRIATIVA                     ║
 ║                                                              ║
-║   DESIGN     ████████████████████░░  90%                     ║
-║   CÓDIGO     ███████████████░░░░░░  70%                      ║
+║   DESIGN       ████████████████████░░  90%                   ║
+║   CÓDIGO       ███████████████░░░░░░  70%                    ║
 ║   CRIATIVIDADE ██████████████████████ 100%                   ║
 ║                                                              ║
 ║   > Transformando ideias em experiências digitais.           ║
@@ -106,17 +106,17 @@ estudando_atualmente:
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     KIT DE FERRAMENTAS MELLO                │
+│                    KIT DE FERRAMENTAS MELLO                  │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ◈ VISUAL STUDIO CODE    → Desenvolvimento                  │
-│  ◈ GIT / GITHUB          → Controle de Versão               │
-│  ◈ GITLAB                → Colaboração                      │
-│  ◈ MYSQL                 → Banco de Dados                   │
-│  ◈ PHOTOSHOP             → Arte Digital                     │
-│  ◈ ILLUSTRATOR           → Design Vetorial                  │
-│  ◈ CANVA                 → Produção Visual                  │
-│  ◈ CAPCUT                → Vídeo / Motion                   │
+│  ◈ VISUAL STUDIO CODE    → Desenvolvimento                   │
+│  ◈ GIT / GITHUB          → Controle de Versão                │
+│  ◈ GITLAB                → Colaboração                       │
+│  ◈ MYSQL                 → Banco de Dados                    │
+│  ◈ PHOTOSHOP             → Arte Digital                      │
+│  ◈ ILLUSTRATOR           → Design Vetorial                   │
+│  ◈ CANVA                 → Produção Visual                   │
+│  ◈ CAPCUT                → Vídeo / Motion                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
