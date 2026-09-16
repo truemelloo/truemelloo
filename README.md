@@ -37,14 +37,14 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   USUÁRIA    : ANA CLARA MELLO                               ║
-║   APELIDO     : MELLO                                        ║
-║   STATUS      : ONLINE                                       ║
-║   BASE        : BRASIL                                       ║
-║   FUNÇÃO      : DESENVOLVEDORA CRIATIVA                      ║
+║   USUÁRIA    : ANA CLARA MELLO                              ║
+║   APELIDO    : MELLO                                         ║
+║   STATUS     : ONLINE                                        ║
+║   BASE       : BRASIL                                        ║
+║   FUNÇÃO     : DESENVOLVEDORA CRIATIVA                      ║
 ║                                                              ║
 ║   DESIGN       ████████████████████░░  90%                   ║
-║   CÓDIGO       ███████████████░░░░░░  70%                    ║
+║   CÓDIGO       ███████████████░░░░░░  70%                   ║
 ║   CRIATIVIDADE ██████████████████████ 100%                   ║
 ║                                                              ║
 ║   > Transformando ideias em experiências digitais.           ║
@@ -100,11 +100,11 @@ estudando_atualmente:
 
 <br><br>
 
-<img height="48" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
+<img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7BEtF3H0VdtfjqTSugZpgMYNNijT0k86lKJy0-Fx-Q&s=10" alt="Canva"/>
 
-   
+    
 
-<img height="48" src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Adobe Lightroom"/>
+<img height="48" src="https://i.pinimg.com/originals/d0/6a/74/d06a74823aa8f22f823a5701e90157e6.png?nii=t" alt="Adobe Lightroom"/>
 
 </div>
 
@@ -145,24 +145,4 @@ estudando_atualmente:
 
 ### `BACK-END`
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,express,spring&theme=dark"/>
-
-<br><br>
-
-### `BANCO DE DADOS`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase&theme=dark"/>
-
-<br><br>
-
-### `DESIGN`
-
-<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark"/>
-
-<br><br>
-
-<img height="52" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
-
-    
-
-<img height="52" src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Adobe
+<img src="https://skillicons.dev/icons?i=nodejs,j
