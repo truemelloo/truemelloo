@@ -11,9 +11,15 @@
 <a href="https://github.com/truemelloo">
 <img src="https://img.shields.io/badge/GITHUB-0D0D12?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+<a href="https://www.linkedin.com/in/ana-clara-de-souza-mello-b1a362291">
+<img src="https://img.shields.io/badge/LINKEDIN-0D0D12?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+</a>
+
 <a href="https://instagram.com/designmelloo">
 <img src="https://img.shields.io/badge/DESIGNMELLOO-0D0D12?style=for-the-badge&logo=instagram&logoColor=A855F7"/>
 </a>
+
 <a href="https://linkleo.com.br">
 <img src="https://img.shields.io/badge/LINKLEO-0D0D12?style=for-the-badge&logo=googlechrome&logoColor=A855F7"/>
 </a>
@@ -31,17 +37,17 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   USUÁRIA    : ANA CLARA "MELLO"                            ║
+║   USUÁRIA    : ANA CLARA MELLO                               ║
 ║   APELIDO     : MELLO                                        ║
 ║   STATUS      : ONLINE                                       ║
 ║   BASE        : BRASIL                                       ║
-║   FUNÇÃO      : DESENVOLVEDORA CRIATIVA                     ║
+║   FUNÇÃO      : DESENVOLVEDORA CRIATIVA                      ║
 ║                                                              ║
-║   DESIGN      ████████████████████░░  90%                   ║
-║   CÓDIGO      ███████████████░░░░░░  70%                   ║
-║   CRIATIVIDADE██████████████████████ 100%                   ║
+║   DESIGN       ████████████████████░░  90%                   ║
+║   CÓDIGO       ███████████████░░░░░░  70%                    ║
+║   CRIATIVIDADE ██████████████████████ 100%                   ║
 ║                                                              ║
-║   > Transformando ideias em experiências digitais.          ║
+║   > Transformando ideias em experiências digitais.           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -90,7 +96,12 @@ estudando_atualmente:
 
 ### `DESIGN`
 
-<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CANVA-08080D?style=for-the-badge&logo=canva&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/LIGHTROOM-08080D?style=for-the-badge&logo=adobelightroom&logoColor=A855F7"/>
 
 </div>
 
@@ -110,6 +121,8 @@ estudando_atualmente:
 │  ◈ PHOTOSHOP             → Arte Digital                     │
 │  ◈ ILLUSTRATOR           → Design Vetorial                  │
 │  ◈ CANVA                 → Produção Visual                   │
+│  ◈ LIGHTROOM             → Edição de Fotografia             │
+│  ◈ FIGMA                 → UI / UX Design                   │
 │  ◈ CAPCUT                → Vídeo / Animação                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -139,9 +152,19 @@ estudando_atualmente:
 
 <br><br>
 
+### `DESIGN`
+
+<img src="https://skillicons.dev/icons?i=ps,ai,figma,canva&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM-08080D?style=for-the-badge&logo=adobelightroom&logoColor=A855F7"/>
+
+<br><br>
+
 ### `FERRAMENTAS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux&theme=dark"/>
 
 </div>
 
@@ -179,99 +202,9 @@ $ ./próximo_projeto
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `◈ LINKLEO`
-
-**Streetwear / Marca Criativa**
-
-Uma marca independente que mistura moda, identidade visual e cultura urbana.
-
-```text
-IDENTIDADE VISUAL
-DESIGN
-STREETWEAR
-DIREÇÃO CRIATIVA
-```
-
-<a href="https://linkleo.com.br">
-<img src="https://img.shields.io/badge/ACESSAR_PROJETO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/truemelloo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=truemelloo&repo=truemelloo&theme=tokyonight&hide_border=true&bg_color=08080D&title_color=A855F7&icon_color=A855F7"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `◈ LABORATÓRIO CRIATIVO`
-
-**Design + Tecnologia**
-
-Um espaço para experimentar interfaces, identidades visuais, conceitos e projetos digitais.
-
-```text
-UI / UX
-DESIGN GRÁFICO
-EXPERIMENTOS
-ARTE DIGITAL
-```
-
-<a href="https://github.com/truemelloo?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORAR-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `◈ PROJETOS ETEC`
-
-**Estudos de Desenvolvimento**
-
-Projetos acadêmicos desenvolvidos durante minha formação em Desenvolvimento de Sistemas.
-
-```text
-HTML
-CSS
-JAVASCRIPT
-BANCO DE DADOS
-```
-
-<a href="https://github.com/truemelloo?tab=repositories">
-<img src="https://img.shields.io/badge/VER_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `◈ EXPERIMENTOS DIGITAIS`
-
-**Código • Arte • Ideias**
-
-Projetos experimentais que conectam programação e expressão visual.
-
-```text
-CÓDIGO
-ARTE
-DESIGN
-EXPERIMENTAL
-```
-
-<a href="https://github.com/truemelloo?tab=repositories">
-<img src="https://img.shields.io/badge/ABRIR_ARQUIVO-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -281,86 +214,4 @@ EXPERIMENTAL
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=truemelloo&show_icons=true&count_private=true&hide_border=true&bg_color=08080D&title_color=A855F7&icon_color=7C3AED&text_color=E9D5FF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truemelloo&layout=compact&hide_border=true&bg_color=08080D&title_color=A855F7&text_color=E9D5FF"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=truemelloo&theme=dark&hide_border=true&background=08080D&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7"/>
-
-</div>
-
----
-
-## `08 // MONITORAMENTO.DE.ATIVIDADE`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=truemelloo&bg_color=08080D&color=C084FC&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `09 // CONQUISTAS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=truemelloo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
-
-</div>
-
----
-
-## `10 // MATRIZ.DE.CONTRIBUIÇÕES`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/truemelloo/truemelloo/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação das contribuições"/>
-
-</div>
-
----
-
-## `11 // REDES.SOCIAIS`
-
-<div align="center">
-
-<a href="https://github.com/truemelloo">
-<img src="https://img.shields.io/badge/GITHUB-08080D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://instagram.com/designmelloo">
-<img src="https://img.shields.io/badge/DESIGNMELLOO-08080D?style=for-the-badge&logo=instagram&logoColor=A855F7"/>
-</a>
-
-<a href="https://linkleo.com.br">
-<img src="https://img.shields.io/badge/LINKLEO-08080D?style=for-the-badge&logo=googlechrome&logoColor=A855F7"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 CONEXÃO ESTABELECIDA                        ║
-║                                                              ║
-║          DESIGN  ×  CÓDIGO  ×  ARTE  ×  TECNOLOGIA          ║
-║                                                              ║
-║                    [ SISTEMA ONLINE ]                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:5B21B6,100:A855F7&height=120&section=footer&animation=twinkling"/>
-
-<sub>© 2026 Mello • Criado com código e criatividade.</sub>
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.a
